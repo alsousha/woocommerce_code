@@ -11,4 +11,7 @@
 
 <img src="img/video_gal.PNG" alt="drawing" width="400"/>
 
+[card img hover](https://github.com/alsousha/woocommerce_code/blob/main/card_img_hover.php)
+
+<img src="img/staff.JPG" alt="drawing" width="400"/>
 
