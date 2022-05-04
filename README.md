@@ -15,3 +15,7 @@
 
 <img src="img/staff.JPG" alt="drawing" width="400"/>
 
+[gals](https://github.com/alsousha/woocommerce_code/blob/main/gals.php)
+
+<img src="img/gals.JPG" alt="drawing" width="400"/>
+
